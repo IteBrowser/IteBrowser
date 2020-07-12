@@ -15,7 +15,7 @@
 
 ## 其他
 ```javascript
-var Author = Rocky
-var license = MitLicense
-var forum:[This Repository's Issues](https://github.com/IteBrowser/IteBrowser/issues)
+var Author = "Rocky"
+var license = "MitLicense"
+var forum = "This Repository's Issues(https://github.com/IteBrowser/IteBrowser/issues)"
 ```
