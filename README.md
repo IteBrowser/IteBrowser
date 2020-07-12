@@ -5,8 +5,8 @@
 您只要使用以下HTML自带方法，就可以绑定在IE8或更老的浏览器显示IteBrowser插件。
 
 ```html
-  <!--[if Ite IE 8]><br>
-    <iframe src="itebrowser/itebrowser.min.html"></iframe><br>
+  <!--[if Ite IE 8]>
+    <iframe src="itebrowser/itebrowser.min.html"></iframe>
   <!--[endif]>
 ```
 
